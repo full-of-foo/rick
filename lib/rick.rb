@@ -1,5 +1,2 @@
 require "rick/version"
-
-module Rick
-  # Your code goes here...
-end
+require "rick/rick"
