@@ -1,11 +1,7 @@
 require 'test_helper'
 
 class RickTest < Minitest::Test
-  def test_that_it_has_a_version_number
-    refute_nil ::Rick::VERSION
-  end
-
-  def test_it_does_something_useful
-    assert false
+  def test_version_number
+    assert Rick::VERSION, "0.1.0"
   end
 end
