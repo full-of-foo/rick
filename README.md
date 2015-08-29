@@ -1,16 +1,10 @@
 # :heart: Rick :heart:
 
-<div style="text-align:center">
 *"I just want to tell you how I'm feeling"*
-</div>
-<div style="text-align:center">
+
 <img src ="https://38.media.tumblr.com/a7d7323885509fa85478fd30af784af9/tumblr_n6sxu83sGe1scd4jmo1_400.gif" />
-</div>
 
-<div style="text-align:center">
 *"Gotta make you understand"*
-</div>
-
 
 ## Installation
 
